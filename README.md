@@ -3,10 +3,12 @@ Competitive Problem Solving with Deep Learning (Sommersemester 2018)
 
 ### Requirements
 
-* Tensorflow
+* Tensorflow (CPU version is fine)
 * Keras
 * matplotlib
 * numpy
+
+OR ```pip install -r requirements.txt```
 
 ## Problem: Condition the number generation process on [MNIST](http://yann.lecun.com/exdb/mnist/).
 
