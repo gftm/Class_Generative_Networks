@@ -10,3 +10,5 @@ Original GAN output:
 Conditional GAN output (goal):
 
 ![Conditional GAN](https://media.giphy.com/media/1oGRnUiJ2hYFbGhhHH/giphy.gif)
+
+Adapted from https://github.com/eriklindernoren/Keras-GAN
